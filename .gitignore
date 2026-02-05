@@ -12,3 +12,22 @@ current_count.txt
 
 data-log/*
 !data-log/__init__
+.codersinflow
+.vscode
+node_modules
+.env
+.venv
+.codex
+out
+dist
+*.vsix
+.claude
+CLAUDE.md
+.DS_Store
+.git
+*.log
+*.tmp
+*.pyc
+.env.local
+.next
+.github
